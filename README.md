@@ -24,7 +24,7 @@ The general process is:
 - Create a personal copy (a 'fork') of the assignment into your GitHub account.
 - Download your personal copy to your computer (referred to as 'cloning').
 - Complete the required work.
-- Push your completed code back up to your GitHub repo.
+- Push your completed code back up to your GitHub report
 - Submit your completed work in Canvas through the CodeGrade window.
 
 In this assignment, you'll learn the workflow that you will be using to complete
